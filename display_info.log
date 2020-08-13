@@ -1,0 +1,9 @@
+INFO:root:Executing display_info with args: ('Dharmender', 'Rawat') and kwargs: {}
+INFO:root:Executing display_info with args: ('Dharmender', 45) and kwargs: {}
+INFO:root:Executing display_info with args: (('Dharmender', 45), {}) and kwargs: {}
+INFO:root:Executing display_info with args: (('Dharmender', 40), {}) and kwargs: {}
+INFO:root:Executing display_info with args: (('Guru', 35), {}) and kwargs: {}
+INFO:root:Executing display_info with args: (('Savi', 24), {}) and kwargs: {}
+INFO:root:Executing display_info with args: (('ggg', 24), {}) and kwargs: {}
+INFO:root:Executing display_info with args: ('Kapil', 25) and kwargs: {}
+INFO:root:Executing display_info with args: (('Raju', 50), {}) and kwargs: {}

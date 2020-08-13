@@ -1,0 +1,7 @@
+INFO:root:Executing 'add' with args: (3, 4)
+INFO:root:Executing 'sub' with args: (12, 8)
+INFO:root:Executing 'add' with args: (3, 4)
+INFO:root:Executing 'sub' with args: (12, 8)
+INFO:root:Executing 'add' with args: (3, 4)
+INFO:root:Executing 'sub' with args: (12, 8)
+INFO:root:Executing 'add' with args: (9, 20)

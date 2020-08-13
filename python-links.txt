@@ -1,0 +1,267 @@
+https://realpython.com/operator-function-overloading/
+https://www.geeksforgeeks.org/python-programming-language/
+
+https://www.geeksforgeeks.org/python-property-function/
+https://www.w3schools.com/python/default.asp
+----------
+
+https://realpython.com/python-input-output/
+https://realpython.com/python-f-strings/
+https://realpython.com/defining-your-own-python-function/#conclusion
+https://realpython.com/python-basics/
+https://realpython.com/python3-object-oriented-programming/#conclusion
+https://realpython.com/tutorials/basics/
+https://realpython.com/tutorials/intermediate/
+https://www.learnpython.org/
+https://www.w3schools.com/python/python_mysql_limit.asp
+
+https://realpython.com/python3-object-oriented-programming/
+
+https://realpython.com/python-first-steps/
+
+https://realpython.com/python-kwargs-and-args/
+
+https://realpython.com/python-exceptions/
+https://realpython.com/the-most-diabolical-python-antipattern/
+
+
+=============
+for %i in (java.exe) do @echo.   %~$PATH:i
+
+
+=======Files ======
+#https://realpython.com/working-with-files-in-python/
+#https://realpython.com/read-write-files-python/
+https://dbader.org/blog/python-file-io
+https://realpython.com/python-pathlib/
+
+https://dbader.org/blog/python-context-managers-and-with-statement
+http://strftime.org/
+
+
+--- Date time ----
+#https://realpython.com/python-datetime/
+https://realpython.com/python-time-module/
+https://www.programiz.com/python-programming/datetime/current-datetime
+https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html
+
+--- comprehensions ----
+#https://dbader.org/blog/list-dict-set-comprehensions-in-python
+#https://realpython.com/list-comprehension-python/
+https://www.youtube.com/watch?v=1HlyKKiGg-4
+
+
+------ Generators -----
+https://realpython.com/introduction-to-python-generators/
+https://dbader.org/blog/python-generator-expressions
+https://dbader.org/blog/python-generators
+
+https://dbader.org/blog/python-iterators
+
+
+------------- Decorator -----------------------
+https://www.youtube.com/watch?v=kr0mpwqttM0		- First class functions
+https://www.youtube.com/watch?v=swU3c34d2NQ		- Clousure
+https://www.youtube.com/watch?v=FsAPt_9Bf3U&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=37	- Decorator
+
+
+
+-- new features python 3.8 ------------------
+https://realpython.com/python38-new-features/#the-walrus-in-the-room-assignment-expressions
+
+
+Real python videos
+https://www.youtube.com/watch?v=1HlyKKiGg-4&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=11
+
+
+--------- Lambda -----------
+https://www.youtube.com/watch?v=HBR6wqXj2iY&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+https://www.youtube.com/watch?v=Ob9rY6PQMfI
+
+
+
+https://realpython.com/python-https/
+
+
+https://www.youtube.com/c/realpython/playlists
+https://www.youtube.com/watch?v=gllUwQnYVww&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr
+
+
+https://realpython.com/python-csv/
+https://realpython.com/python-json/
+https://realpython.com/team/stiwari/
+
+
+https://realpython.com/lessons/basic-usage-and-string-literals/
+https://realpython.com/python-print/
+
+
+
+function programming, sql, rest webservices
+
+https://realpython.com/python-exceptions/
+
+https://realpython.com/python-encodings-guide/
+https://en.wikipedia.org/wiki/Devanagari#Numerals
+
+https://realpython.com/regex-python/
+
+https://realpython.com/python-modules-packages/
+https://realpython.com/python-math-module/
+
+
+https://pythonprogramming.net/introduction-learn-python-3-tutorials/
+
+https://www.guru99.com/python-tutorials.html
+
+https://realpython.com/documenting-python-code/#documenting-your-python-code-base-using-docstrings
+https://realpython.com/pointers-in-python/
+
+https://realpython.com/switching-to-python/
+https://realpython.com/tutorials/basics/
+
+https://code.google.com/archive/p/sitemap-generators/wikis/SitemapGenerators.wiki
+https://www.xml-sitemaps.com/
+
+https://www.udemy.com/topic/python/free/
+
+----------
+youtube python corey
+https://www.youtube.com/watch?v=YJC6ldI3hWk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=15
+
+Azure devops
+https://www.youtube.com/watch?v=-yFXVwhGP0s&list=PLaFzfwmPR7_Ifxq-udm66fhReFeGOe2x_
+
+https://Specsavers@dev.azure.com/Specsavers/Socrates-AU/_git/Administration
+
+
+https://dbader.org/blog/python-repr-vs-str
+
+https://www.geeksforgeeks.org/pandas-tutorial/?ref=leftbar-rightbar
+
+==========================
+
+Devops
+https://www.youtube.com/watch?v=-yFXVwhGP0s&list=PLaFzfwmPR7_Ifxq-udm66fhReFeGOe2x_
+https://www.youtube.com/watch?v=MOZMw5_fBFA
+https://www.youtube.com/watch?v=QXIxKZINJV4
+https://www.youtube.com/watch?v=kPZOFSt8m0M
+
+https://www.youtube.com/watch?v=oXK2kQOV5Yk
+https://www.youtube.com/watch?v=KtijMseaFpo
+
+-----------------------------------------------------------------------------------------------
+Python:
+
+Socratica : 
+	https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q	(intermediate examples)
+	https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+Data science(Indian)	
+	https://www.youtube.com/watch?v=HBR6wqXj2iY&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+
+Telusko
+	https://www.youtube.com/watch?v=yNzxXZfkLUA&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=48
+
+======================================================
+
+https://realpython.com/python-input-output/
+https://realpython.com/python-f-strings/
+https://realpython.com/defining-your-own-python-function/#conclusion
+https://realpython.com/python-basics/
+https://realpython.com/python3-object-oriented-programming/#conclusion
+https://realpython.com/tutorials/basics/
+https://realpython.com/tutorials/intermediate/
+https://www.learnpython.org/
+https://www.w3schools.com/python/python_mysql_limit.asp
+
+https://realpython.com/python3-object-oriented-programming/
+
+https://realpython.com/python-first-steps/
+
+https://realpython.com/python-kwargs-and-args/
+
+function programming, sql, rest webservices
+
+https://realpython.com/python-exceptions/
+
+https://realpython.com/python-encodings-guide/
+https://en.wikipedia.org/wiki/Devanagari#Numerals
+
+https://realpython.com/regex-python/
+
+https://pythonprogramming.net/introduction-learn-python-3-tutorials/
+
+https://www.guru99.com/python-tutorials.html
+
+https://realpython.com/documenting-python-code/#documenting-your-python-code-base-using-docstrings
+https://realpython.com/pointers-in-python/
+
+https://realpython.com/switching-to-python/
+https://realpython.com/tutorials/basics/
+
+
+https://code.google.com/archive/p/sitemap-generators/wikis/SitemapGenerators.wiki
+https://www.xml-sitemaps.com/
+
+==================
+
+https://realpython.com/python-input-output/
+https://realpython.com/python-f-strings/
+https://realpython.com/defining-your-own-python-function/#conclusion
+https://realpython.com/python-basics/
+https://realpython.com/python3-object-oriented-programming/#conclusion
+https://realpython.com/tutorials/basics/
+https://realpython.com/tutorials/intermediate/
+https://www.learnpython.org/
+https://www.w3schools.com/python/python_mysql_limit.asp
+
+https://realpython.com/python3-object-oriented-programming/
+
+https://realpython.com/python-first-steps/
+
+https://realpython.com/python-kwargs-and-args/
+
+function programming, sql, rest webservices
+
+https://realpython.com/python-exceptions/
+
+https://realpython.com/python-encodings-guide/
+https://en.wikipedia.org/wiki/Devanagari#Numerals
+
+https://realpython.com/regex-python/
+
+https://pythonprogramming.net/introduction-learn-python-3-tutorials/
+
+https://www.guru99.com/python-tutorials.html
+
+https://realpython.com/documenting-python-code/#documenting-your-python-code-base-using-docstrings
+https://realpython.com/pointers-in-python/
+
+https://realpython.com/switching-to-python/
+https://realpython.com/tutorials/basics/
+
+https://code.google.com/archive/p/sitemap-generators/wikis/SitemapGenerators.wiki
+https://www.xml-sitemaps.com/
+
+-------------------------------------------------------------------
+Dev Azure
+https://www.youtube.com/watch?v=LdjIjL1bneE
+https://www.youtube.com/watch?v=H-R2bCXfz8I
+https://www.youtube.com/watch?v=QXIxKZINJV4
+https://www.youtube.com/watch?v=-tia-ZaprHQ
+
+
+------------------
+Jhankar beats old
+https://www.youtube.com/watch?v=SwlCJVSYnEU
+
+
+dir_a os.stat_result(st_mode=16895, st_ino=14073748835671205, st_dev=1443098622, st_nlink=1, st_uid=0, st_gid=0, st_size=0, st_atime=1596121732, st_mtime=1596100934, st_ctime=1596100865)
+dir_b os.stat_result(st_mode=16895, st_ino=1970324837551715, st_dev=1443098622, st_nlink=1, st_uid=0, st_gid=0, st_size=0, st_atime=1596121732, st_mtime=1596100944, st_ctime=1596100871)
+dir_c os.stat_result(st_mode=16895, st_ino=1970324837551719, st_dev=1443098622, st_nlink=1, st_uid=0, st_gid=0, st_size=0, st_atime=1596121732, st_mtime=1596100955, st_ctime=1596100874)
+file1.txt os.stat_result(st_mode=33206, st_ino=13510798882230083, st_dev=1443098622, st_nlink=1, st_uid=0, st_gid=0, st_size=19, st_atime=1596100925, st_mtime=1596100895, st_ctime=1596100886)
+file2.txt os.stat_result(st_mode=33206, st_ino=2814749767292986, st_dev=1443098622, st_nlink=1, st_uid=0, st_gid=0, st_size=19, st_atime=1596100907, st_mtime=1596100904, st_ctime=1596100897)
+file3.txt os.stat_result(st_mode=33206, st_ino=2814749767678671, st_dev=1443098622, st_nlink=1, st_uid=0, st_gid=0, st_size=19, st_atime=1596100915, st_mtime=1596100915, st_ctime=1596100907)

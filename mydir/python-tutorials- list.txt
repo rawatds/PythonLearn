@@ -1,0 +1,107 @@
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Socrates-ROI                                                       [pom]
+[INFO] Configuration                                                      [jar]
+[INFO] BusinessModel                                                      [jar]
+[INFO] QAS-Tomcat                                                         [jar]
+[INFO] SOA                                                                [jar]
+[INFO] socratescommon                                                     [jar]
+[INFO] CommonUI                                                           [jar]
+[INFO] TestEngine                                                         [jar]
+[INFO] ApplicationHost2                                                   [jar]
+[INFO] SOA_Message                                                        [jar]
+[INFO] CommonControllers                                                  [jar]
+[INFO] pos-basket                                                         [jar]
+[INFO] QATools                                                            [jar]
+[INFO] FrameReplenishment                                                 [jar]
+[INFO] MigrationFramework                                                 [jar]
+[INFO] NhsElectronics                                                     [jar]
+[INFO] callcentre-Uk1                                                     [jar]
+[INFO] SOA_server                                                         [jar]
+[INFO] contactlenses                                                      [jar]
+[INFO] tau                                                                [jar]
+[INFO] EndOfDay                                                           [jar]
+[INFO] Appointment                                                        [jar]
+[INFO] Hearcare                                                           [jar]
+[INFO] dispense                                                           [jar]
+[INFO] StrategicHearcare                                                  [jar]
+[INFO] MedicareCommon                                                     [jar]
+[INFO] Administration                                                     [jar]
+[INFO] testroom                                                           [jar]
+[INFO] DigitalImaging                                                     [jar]
+[INFO] New Store artifacts parent                                         [pom]
+[INFO] Store Activation package                                           [jar]
+[INFO] Store RJ Inventory package                                         [jar]
+[INFO] Store Static data package for ROI                                  [jar]
+[INFO] Store Static data package for ESP                                  [jar]
+[INFO] Store hearecare static data package                                [jar]
+[INFO] Store schema package for ROI                                       [jar]
+[INFO] Store schema package for ESP                                       [jar]
+[INFO] Store scripts package                                              [jar]
+[INFO] Socrates package                                                   [jar]
+[INFO] dploy                                                              [pom]
+[INFO] launch_socrates                                                    [pom]
+[INFO] 
+========================
+
+Hearcare:
+------------
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.413 sec <<< FAILURE! - in com.specsavers.application.hearcare.controllers.nederlands.TestNewCOFOrderController
+testRepairOrderForOutsideHearingAid(com.specsavers.application.hearcare.controllers.nederlands.TestNewCOFOrderController)  Time elapsed: 0.118 sec  <<< ERROR!
+java.lang.AssertionError: 
+  Unexpected method call CustomerService.getLatestRecordByCustomerAndType(null, "HTR"):
+    StoreService.findSysConfig(REPAIR_SYSTEM_SKU): expected: 1, actual: 0
+    StoreService.findSysConfig(REPAIR_OPTION_SKU): expected: 1, actual: 0
+    CustomerService.getLatestRecordByCustomerAndType((Customer: Mr Firstname LastName), "HTR"): expected: 1, actual: 0
+    DispenseOrderService.updateHearCareOrder(isA(com.specsavers.businesstype.impl.HearCareOrder)): expected: 1, actual: 0
+    NavigationFlow.navigateTo("proceed"): expected: 1, actual: 0
+	at org.easymock.internal.MockInvocationHandler.invoke(MockInvocationHandler.java:44)
+	at org.easymock.internal.ObjectMethodsFilter.invoke(ObjectMethodsFilter.java:94)
+	at com.sun.proxy.$Proxy8.getLatestRecordByCustomerAndType(Unknown Source)
+	at com.specsavers.application.hearcare.controllers.nederlands.NewCOFOrderController.setHearCareOrder(NewCOFOrderController.java:81)
+	at com.specsavers.application.hearcare.controllers.NewCOFOrderController.handleProceed(NewCOFOrderController.java:284)
+	at com.specsavers.application.hearcare.controllers.release2_10.NewCOFOrderController.handleProceed(NewCOFOrderController.java:296)
+	at com.specsavers.application.hearcare.controllers.nederlands.NewCOFOrderController.handleProceed(NewCOFOrderController.java:132)
+	at com.specsavers.application.hearcare.controllers.NewCOFOrderController.handleEvent(NewCOFOrderController.java:94)
+	at com.specsavers.application.hearcare.controllers.release2_10.NewCOFOrderController.handleEvent(NewCOFOrderController.java:110)
+	at com.specsavers.common.view.adapters.AbstractButtonAdapterImpl$1.actionPerformed(AbstractButtonAdapterImpl.java:45)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:376)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:356)
+	at com.specsavers.common.view.adapters.AbstractButtonAdapterImpl.doClick(AbstractButtonAdapterImpl.java:29)
+	at com.specsavers.application.hearcare.controllers.nederlands.TestNewCOFOrderController.testRepairOrderForOutsideHearingAid(TestNewCOFOrderController.java:216)
+
+
+Fixed: by creating soa database;
+
+==============================================
+
+[INFO] ApplicationHost2 ................................... FAILURE [ 28.424 s]
+Failed tests: 
+  com.specsavers.application.login.controllers.TestLoginController#testUserNameNoLongerValidStartsWithNumber AssertionFailedError		- no db 'soa' 
+  
+
+==========
+[INFO] Appointment ........................................ FAILURE [02:26 min]
+
+Tests in error: 
+  com.specsavers.application.appointment.controllers.TestDailyDiaryEditController#testNoDataAvailable_AfterBlocking IllegalStateException
+
+Tests run: 2050, Failures: 0, Errors: 1, Skipped: 0
+
+
+There are 70+ external jars used, out of 48 were upgraded.
+The third-party jars were analysed for incompatibility with JDK8 bytecode.
+The highest version of third-party compatible with JDK8  and other libraries were used.
+
+gchyfnpwxzlsjryz
+
+
+Request Number: 
+REQ0130661   
+MobilePass
+

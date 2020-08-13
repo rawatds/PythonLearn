@@ -1,0 +1,35 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+jobs:
+- job: BuildJavaCode
+  displayName: Java code build
+  steps: 
+  - task: DownloadSecureFile@1
+    name: settingsxml
+    displayName: Download Maven settings.xml
+    inputs:
+      secureFile: 'settings.xml'
+
+  - script: |
+      rm -rf ~/.m2
+      mkdir -p ~/.m2
+      cp $(settingsxml.secureFilePath) ~/.m2/settings.xml
+    displayName: Copy settings.xml to local .m2
+
+
+  - task: Maven@3
+    displayName: Running maven
+    inputs: 
+      goals: clean deploy
+        
+
+
